@@ -14,6 +14,8 @@ public class JavaBasics{
    public static void main(String args[]){
     System.out.print("Hello World");
     System.out.print("my name is puja");
+    System.out.print("I lived in delhi Noida");
+
 
    }
 }
